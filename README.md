@@ -1,2 +1,3 @@
-# docker-lang
-Docker syntax highlighting language extension
+![Screenshot](screenshot.png)
+
+Adds syntax highlighting support for Dockerfile
