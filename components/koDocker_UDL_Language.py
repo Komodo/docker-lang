@@ -2,6 +2,12 @@
 
 import logging
 from koUDLLanguageBase import KoUDLLanguage
+from langinfo import LangInfo
+
+class DockerLangInfo(LangInfo):
+    name = "Docker"
+    conforms_to_bases = ["Text"]
+    filename_patterns = ["Dockerfile"]
 
 log = logging.getLogger("koDockerLanguage")
 #log.setLevel(logging.DEBUG)

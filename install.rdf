@@ -4,7 +4,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>Docker-lang@activestate.com</em:id>
     <em:name>Docker-lang</em:name>
-    <em:version>0.1</em:version>
+    <em:version>0.2</em:version>
     <em:description>Dockerfile syntax highlighting</em:description>
     <em:creator>Mitchell</em:creator>
     <em:homepageURL></em:homepageURL>
